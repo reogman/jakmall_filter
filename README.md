@@ -1,2 +1,2 @@
-# jakmall_filter_rs
+# jakmall_filter
 Jakmall filter package implementations
